@@ -16,6 +16,6 @@ This humble program was my first coding project. I completed it when I was a fre
 
 I can think of no better way for me to celebrate the life of John Conway than by sharing my implementation of John Conway's celebrated Game of Life.
 
-This program runs on Python 3.8.5. Hope you enjoy!!
+Hope you enjoy!!
 
 Nate
