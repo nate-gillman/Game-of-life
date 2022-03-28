@@ -22,4 +22,4 @@ Nate
 
 # Demonstration!!
 
-![][life_example.gif]
+![][https://github.com/nate-gillman/Game-of-life/blob/main/life_example.gif]
