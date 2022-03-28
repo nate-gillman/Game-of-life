@@ -22,4 +22,4 @@ Nate
 
 # Demonstration!!
 
-![][life_demonstration.gif]
+![][life_example.gif]
